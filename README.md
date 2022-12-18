@@ -1,5 +1,5 @@
-# IPL-Runs-Prognosticator
-Applied Regression technique to predict runs of the players in IPL.  
+# 🏏 IPL-Runs-Prognosticator 🏏
+–- Applied Regression technique to predict runs of the players in IPL.  
 # 1. Exploratory Data Analysis
 Firstly Applied Exploratory Data Analysis to gather some of the information regarding the dataset like how many missing values we have, how many numeric and categorical features we have, what kind of distribution we have in the continuous variables, how many outliers we have etc.
 # 2. Feature Engineering
